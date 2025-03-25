@@ -34,7 +34,8 @@ This project implements a **Convolutional Neural Network (CNN)** to classify han
 
   ```bash
   📦 mnist-cnn  
-   ┣ 📜 mnist_cnn.py            # Main training script  
+   ┣ 📜 mnist_cnn.py            # Main training script
+   ┣ 📜 prediction.py           # Load and use model.keras 
    ┣ 📜 model.keras             # Saved model in Keras format  
    ┣ 📜 README.md               # Project documentation  
    ┣ 📜 requirements.txt        # Dependencies  
